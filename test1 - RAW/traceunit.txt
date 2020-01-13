@@ -1,0 +1,15 @@
+4 MUL0 F6 F5 F6 ADD1 - No Yes
+5 MUL0 F6 F5 F6 ADD1 - No Yes
+6 MUL0 F6 F5 F6 ADD1 - No Yes
+7 MUL0 F6 F5 F6 ADD1 - No Yes
+8 MUL0 F6 F5 F6 - - Yes Yes
+9 MUL0 F6 F5 F6 - - Yes Yes
+10 MUL0 F6 F5 F6 - - Yes Yes
+11 MUL0 F6 F5 F6 - - Yes Yes
+12 MUL0 F6 F5 F6 - - Yes Yes
+13 MUL0 F6 F5 F6 - - Yes Yes
+14 MUL0 F6 F5 F6 - - Yes Yes
+15 MUL0 F6 F5 F6 - - Yes Yes
+16 MUL0 F6 F5 F6 - - Yes Yes
+17 MUL0 F6 F5 F6 - - Yes Yes
+18 MUL0 F6 F5 F6 - - No No

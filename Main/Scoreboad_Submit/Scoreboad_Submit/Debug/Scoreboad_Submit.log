@@ -1,0 +1,39 @@
+﻿  sim.c
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(323): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(325): warning C4244: 'function': conversion from 'unsigned long' to 'float', possible loss of data
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(337): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(421): warning C4047: '=': 'Inst *' differs in levels of indirection from 'int'
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(369): warning C4101: 'unit_name': unreferenced local variable
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(494): warning C4047: 'return': 'int' differs in levels of indirection from 'int [2]'
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(433): warning C4101: 'i': unreferenced local variable
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(668): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(688): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(706): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(723): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(740): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(758): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(771): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(788): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(802): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(816): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(830): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(846): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(857): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(886): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(903): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(918): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(933): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(949): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(963): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(985): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(997): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1009): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1021): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1033): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1045): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(983): warning C4101: 'src0': unreferenced local variable
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(983): warning C4101: 'src1': unreferenced local variable
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(1165): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+c:\users\tamirh\downloads\scoreboard_204252506_203347968\submit\scoreboad_submit\scoreboad_submit\sim.c(494): warning C4172: returning address of local variable or temporary: trace
+  Scoreboad_Submit.vcxproj -> C:\Users\tamirh\Downloads\Scoreboard_204252506_203347968\Submit\Scoreboad_Submit\Debug\Scoreboad_Submit.exe

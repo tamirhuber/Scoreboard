@@ -1,0 +1,3 @@
+3 ADD0 F2 F4 F5 - - Yes Yes
+4 ADD0 F2 F4 F5 - - No No
+5 ADD0 F2 F4 F5 - - No No

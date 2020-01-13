@@ -1,0 +1,8 @@
+Load 3 - - 9
+Add  5 5 3 -
+ST   - 5 - 7
+Load 6 - - B
+ADD  7 6 5 -
+
+Notes:
+Only 2 load units, so the 3rd load command will stall the issuing until the first load units finishes.
